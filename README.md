@@ -24,3 +24,7 @@ No Wokwi clicar para compliar e rodar a aplicação apenas.
 ```
 https://wokwi.com/projects/381783862610236417
 ```
+
+## Link para o vídeo
+
+https://www.youtube.com/watch?v=8AMx6OW1qBE
